@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c340021-88f3-46e5-aca2-d41e2e0c0376" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/locales/cn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page-archives.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/page.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partials/loop.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/partials/loop.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partials/theme_footer.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/partials/theme_footer.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partials/theme_header.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/partials/theme_header.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/tag.hbs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TCCPyNNLkWkawC5RoV6osOUKGB" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c340021-88f3-46e5-aca2-d41e2e0c0376" name="Default Changelist" comment="" />
+      <created>1572954669584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572954669584</updated>
+      <workItem from="1572954670801" duration="3024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
