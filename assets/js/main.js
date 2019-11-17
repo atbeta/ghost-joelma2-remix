@@ -10,8 +10,8 @@ jQuery(document).ready(function($) {
         'infinite-scroll': false,
         'infinite-scroll-step': 1,
         'disqus-shortname': 'pbeta',
-        'content-api-host': '',
-        'content-api-key': '',
+        'content-api-host': 'https://www.pbeta.me',
+        'content-api-key': 'beac914344b073806ed271371d',
     };
 
     var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0),
